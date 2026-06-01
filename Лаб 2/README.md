@@ -17,5 +17,3 @@
 - `Refrigerator.java`
 - `VacuumCleaner.java`
 - `Main.java`
-
-## Запуск
